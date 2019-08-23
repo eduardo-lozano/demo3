@@ -5,6 +5,7 @@ import java.util.Date;
 import java.util.List;
 
 public class SomeUserDaoService {
+	/* Some comment */
 
 	private static List<SomeUser> users = new ArrayList<SomeUser>();
 	
